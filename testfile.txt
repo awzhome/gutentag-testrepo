@@ -1,8 +1,1 @@
-Development has started, doing some first things, and more, and some more
-Its time for a first dev release
-
-This is v0.1
-
-Some bug fixes
-
-Now a v0.2 with more bugfixes
+Started development on v1.0
