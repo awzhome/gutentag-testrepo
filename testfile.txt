@@ -1,2 +1,3 @@
 Starting development on v1.1
 Some new stuff developed
+Some more stuff
