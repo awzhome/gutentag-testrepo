@@ -4,3 +4,5 @@ Its time for a first dev release
 This is v0.1
 
 Some bug fixes
+
+Now a v0.2 with more bugfixes
