@@ -1,1 +1,2 @@
 v1.0 is here!
+It had an urgent bug, so we released a fixed v1.0.1
