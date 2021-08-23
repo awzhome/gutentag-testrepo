@@ -2,3 +2,4 @@ Starting development on v1.1
 Some new stuff developed
 Some more stuff
 Bugfixes from v1.0.1 and v1.0.2 are now here, too!
+Some more stuff added
