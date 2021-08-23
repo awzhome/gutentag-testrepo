@@ -3,3 +3,4 @@ And more stuff
 And some more
 
 Releasing our first beta of 1.0
+Fixing some bugs
