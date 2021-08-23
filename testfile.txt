@@ -1,4 +1,4 @@
 v1.0 is here!
 It had an urgent bug, so we released a fixed v1.0.1
 Then another bug came, so we had to release a v1.0.2
-Some more stuff has to be fixed
+Some more stuff has to be fixed, and more bugs
